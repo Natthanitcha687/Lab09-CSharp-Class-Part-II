@@ -1,0 +1,15 @@
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\bin\Debug\net8.0\Lab09_Ex09.exe
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\bin\Debug\net8.0\Lab09_Ex09.deps.json
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\bin\Debug\net8.0\Lab09_Ex09.runtimeconfig.json
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\bin\Debug\net8.0\Lab09_Ex09.dll
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\bin\Debug\net8.0\Lab09_Ex09.pdb
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\obj\Debug\net8.0\Lab09_Ex09.GeneratedMSBuildEditorConfig.editorconfig
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\obj\Debug\net8.0\Lab09_Ex09.AssemblyInfoInputs.cache
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\obj\Debug\net8.0\Lab09_Ex09.AssemblyInfo.cs
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\obj\Debug\net8.0\Lab09_Ex09.csproj.CoreCompileInputs.cache
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\obj\Debug\net8.0\Lab09_Ex09.sourcelink.json
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\obj\Debug\net8.0\Lab09_Ex09.dll
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\obj\Debug\net8.0\refint\Lab09_Ex09.dll
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\obj\Debug\net8.0\Lab09_Ex09.pdb
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\obj\Debug\net8.0\Lab09_Ex09.genruntimeconfig.cache
+D:\natthanitcha_work\OOP (FRI)\LAB 9\Lab09-CSharp-Class-Part-II\Lab09_Ex09\obj\Debug\net8.0\ref\Lab09_Ex09.dll
